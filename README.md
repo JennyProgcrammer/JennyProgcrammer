@@ -8,4 +8,4 @@ JennyProgcrammer/JennyProgcrammer is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+World!+I'm+Jenny+Marinay%2C+19+years+old;Aspiring+Web+Developer+%26+UI+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi!+I'm+Jenny+Marinay%2C+19+years+old;Aspiring+Web+Developer+%26+UI+Designer)](https://git.io/typing-svg)
