@@ -9,9 +9,7 @@
 <a href="https://twitter.com/jeniProgcrammer" target="_blank"> 
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a> 
-<a href="https://github.com/JennyProgcrammer" target="_blank"> 
-<img src= https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a> 
+
 <a href="https://www.reddit.com/user/Jenny-Progcrammer" target="_blank"> 
 <img src= https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white alt=reddit style="margin-bottom: 5px;" />
 </a> 
@@ -21,12 +19,15 @@
 <a href="https://web.facebook.com/profile.php?id=100087184226840" target="_blank"> 
 <img src= https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a> 
-<a href="https://open.spotify.com/user/215tije47r2qd3toybue7yjvi?si=4a2cc31282834392" target="_blank"> 
+<!--- <a href="https://open.spotify.com/user/215tije47r2qd3toybue7yjvi?si=4a2cc31282834392" target="_blank"> 
 <img src= https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white alt=spotify style="margin-bottom: 5px;" />
-</a> 
-<a href="https://hashnode.com/@jennymarinay" target="_blank"> 
+</a> --->
+<!--- <a href="https://hashnode.com/@jennymarinay" target="_blank"> 
 <img src= https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
-</a> 
+</a> --->
+<!--- <a href="https://github.com/JennyProgcrammer" target="_blank"> 
+<img src= https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a> --->
 
 <h1> Languages and Tools I'm Currently Learning </h1>
 
@@ -37,20 +38,21 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+<!--- ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) --->
+<!-- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) --->
+<!--- ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) --->
+
 
 <h1> My UI & UX Design Tools </h1>
 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+<!--- ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) --->
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 
 
