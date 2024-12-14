@@ -1,4 +1,4 @@
-<h2>Hi, I'm Jenny!</h2>
+<h2>Hello, world!</h2>
 <p>A 4th-year Information Technology student of Adamson University, aspiring to be a software engineer with a strong interest in web design and front-end development.</p>
 
 <h2>Techstack</h2>
